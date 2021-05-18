@@ -1,13 +1,13 @@
----
+
 title: Signing up for GitHub
-intro: ''
+intro: 
 mapTopic: true
 redirect_from:
-  - /articles/signing-up-for-github
+/articles/signing-up-for-github
 versions:
-  free-pro-team: '*'
-  enterprise-server: '*'
-  github-ae: '*'
+ free-pro-team: *
+  enterprise-server: *
+  github-ae: *
 topics:
   - Accounts
 ---
